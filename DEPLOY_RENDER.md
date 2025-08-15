@@ -177,8 +177,8 @@ No painel do Render, monitore:
 
 ### Build Falha
 
-**Erro comum**: `npm: command not found`
-- **Solução**: Verificar se `package.json` está na raiz
+**Erro comum**: `EJSONPARSE` (erro de sintaxe no `package.json`)
+- **Solução**: Verifique se o `package.json` é um JSON válido. Isso pode acontecer se houver vírgulas extras, chaves faltando ou outros erros de formatação. Certifique-se de que a última propriedade de um objeto JSON não tenha uma vírgula após ela.
 
 **Erro comum**: `ERESOLVE unable to resolve dependency tree` (conflito de dependências)
 - **Solução**: Isso ocorre geralmente com `date-fns` e `react-day-picker`. A solução é garantir que a versão do `date-fns` seja compatível (ex: `^3.0.0`). O `package.json` do projeto já foi ajustado para isso. Além disso, certifique-se de que o Render esteja usando `npm` como gerenciador de pacotes (a linha `"packageManager"` foi removida do `package.json`).

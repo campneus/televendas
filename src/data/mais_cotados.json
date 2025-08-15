@@ -1,0 +1,134 @@
+[
+  {
+    "Modelo": "175/65r14",
+    "Vendidos": 951,
+    "Conversao": 138,
+    "Percentual": 14.5
+  },
+  {
+    "Modelo": "175/70r14",
+    "Vendidos": 754,
+    "Conversao": 61,
+    "Percentual": 8.1
+  },
+  {
+    "Modelo": "175/70r13",
+    "Vendidos": 738,
+    "Conversao": 61,
+    "Percentual": 8.3
+  },
+  {
+    "Modelo": "185/60r15",
+    "Vendidos": 611,
+    "Conversao": 82,
+    "Percentual": 13.4
+  },
+  {
+    "Modelo": "185/65r15",
+    "Vendidos": 537,
+    "Conversao": 54,
+    "Percentual": 10.1
+  },
+  {
+    "Modelo": "205/55r16",
+    "Vendidos": 477,
+    "Conversao": 55,
+    "Percentual": 11.5
+  },
+  {
+    "Modelo": "195/55r15",
+    "Vendidos": 455,
+    "Conversao": 39,
+    "Percentual": 8.6
+  },
+  {
+    "Modelo": "225/55r18",
+    "Vendidos": 387,
+    "Conversao": 98,
+    "Percentual": 25.3
+  },
+  {
+    "Modelo": "185/70r14",
+    "Vendidos": 380,
+    "Conversao": 31,
+    "Percentual": 8.2
+  },
+  {
+    "Modelo": "205/60r16",
+    "Vendidos": 305,
+    "Conversao": 54,
+    "Percentual": 17.7
+  },
+  {
+    "Modelo": "195/65r15",
+    "Vendidos": 300,
+    "Conversao": 38,
+    "Percentual": 12.7
+  },
+  {
+    "Modelo": "215/65r16",
+    "Vendidos": 279,
+    "Conversao": 53,
+    "Percentual": 19.0
+  },
+  {
+    "Modelo": "205/55r17",
+    "Vendidos": 269,
+    "Conversao": 35,
+    "Percentual": 13.0
+  },
+  {
+    "Modelo": "215/50r17",
+    "Vendidos": 243,
+    "Conversao": 46,
+    "Percentual": 18.9
+  },
+  {
+    "Modelo": "195/60r15",
+    "Vendidos": 208,
+    "Conversao": 14,
+    "Percentual": 6.7
+  },
+  {
+    "Modelo": "205/60r15",
+    "Vendidos": 205,
+    "Conversao": 45,
+    "Percentual": 22.0
+  },
+  {
+    "Modelo": "215/60r17",
+    "Vendidos": 191,
+    "Conversao": 19,
+    "Percentual": 9.9
+  },
+  {
+    "Modelo": "225/45r17",
+    "Vendidos": 179,
+    "Conversao": 31,
+    "Percentual": 17.3
+  },
+  {
+    "Modelo": "225/60r18",
+    "Vendidos": 178,
+    "Conversao": 17,
+    "Percentual": 9.6
+  },
+  {
+    "Modelo": "195/55r16",
+    "Vendidos": 173,
+    "Conversao": 5,
+    "Percentual": 2.9
+  },
+  {
+    "Modelo": "215/55r17",
+    "Vendidos": 171,
+    "Conversao": 10,
+    "Percentual": 5.8
+  },
+  {
+    "Modelo": "205/50r17",
+    "Vendidos": 161,
+    "Conversao": 33,
+    "Percentual": 20.5
+  }
+]

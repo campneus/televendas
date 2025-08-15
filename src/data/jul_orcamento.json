@@ -1,0 +1,58 @@
+[
+    {
+        "Dt.Ref: 08\/08\/2025":null,
+        "Unnamed: 1":null
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":"Hora: 13:37:26",
+        "Unnamed: 1":null
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":null,
+        "Unnamed: 1":null
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":"Emiss\u00e3o: 08\/08\/2025",
+        "Unnamed: 1":null
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":null,
+        "Unnamed: 1":null
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":null,
+        "Unnamed: 1":null
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":"Pergunta 01 : Itens com saldo?",
+        "Unnamed: 1":"Ambos"
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":"Pergunta 02 : Atendimentos em Aberto?",
+        "Unnamed: 1":"Ambos"
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":"Pergunta 03 : Filial de ?",
+        "Unnamed: 1":"02010001"
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":"Pergunta 04 : Filial At\u00e9 ?",
+        "Unnamed: 1":"03010003"
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":"Pergunta 05 : Produto de ?",
+        "Unnamed: 1":null
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":"Pergunta 06 : Produto Ate ?",
+        "Unnamed: 1":null
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":"Pergunta 07 : Data de Emiss\u00e3o de ?",
+        "Unnamed: 1":"01\/07\/2025"
+    },
+    {
+        "Dt.Ref: 08\/08\/2025":"Pergunta 08 : Data de Emiss\u00e3o at\u00e9 ?",
+        "Unnamed: 1":"31\/07\/2025"
+    }
+]

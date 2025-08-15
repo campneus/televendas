@@ -1,0 +1,248 @@
+[
+  {
+    "user_name": "Alisson Araújo",
+    "received": 143,
+    "finalized": 80,
+    "CSAT": 5.0
+  },
+  {
+    "user_name": "Ana Cristina",
+    "received": 571,
+    "finalized": 447,
+    "CSAT": 3.888888888888888
+  },
+  {
+    "user_name": "Ana Meireles",
+    "received": 12,
+    "finalized": 3,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Andre Lino",
+    "received": 23,
+    "finalized": 0,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Andreza Oliveira",
+    "received": 258,
+    "finalized": 272,
+    "CSAT": 4.062499999999999
+  },
+  {
+    "user_name": "Andreza Santos",
+    "received": 4,
+    "finalized": 36,
+    "CSAT": 5.0
+  },
+  {
+    "user_name": "Angélica Mendes",
+    "received": 855,
+    "finalized": 861,
+    "CSAT": 4.723404255319149
+  },
+  {
+    "user_name": "Atendente Virtual (Bot)",
+    "received": 120,
+    "finalized": 43,
+    "CSAT": 5.0
+  },
+  {
+    "user_name": "Aylarose",
+    "received": 369,
+    "finalized": 355,
+    "CSAT": 4.249999999999999
+  },
+  {
+    "user_name": "Beatriz (bia)",
+    "received": 21,
+    "finalized": 4,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Carlos Jose Abreu",
+    "received": 0,
+    "finalized": 8,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Gabriel Soares",
+    "received": 3,
+    "finalized": 0,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Huran Magalhães",
+    "received": 67,
+    "finalized": 41,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Igor Nascimento",
+    "received": 10,
+    "finalized": 36,
+    "CSAT": 3.0
+  },
+  {
+    "user_name": "Isa - Campneus",
+    "received": 1516,
+    "finalized": 1859,
+    "CSAT": 4.627906976744187
+  },
+  {
+    "user_name": "Jaqueline Andrade",
+    "received": 200,
+    "finalized": 211,
+    "CSAT": 4.9375
+  },
+  {
+    "user_name": "Jocileia Pessanha",
+    "received": 467,
+    "finalized": 507,
+    "CSAT": 4.739130434782609
+  },
+  {
+    "user_name": "Josiane Valeta",
+    "received": 219,
+    "finalized": 228,
+    "CSAT": 4.0
+  },
+  {
+    "user_name": "Junia Moreira",
+    "received": 215,
+    "finalized": 290,
+    "CSAT": 4.25
+  },
+  {
+    "user_name": "Jéssica Andrade",
+    "received": 26,
+    "finalized": 1,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Jéssica Santos",
+    "received": 268,
+    "finalized": 244,
+    "CSAT": 4.333333333333333
+  },
+  {
+    "user_name": "Karine Aparecida",
+    "received": 636,
+    "finalized": 631,
+    "CSAT": 4.481481481481482
+  },
+  {
+    "user_name": "Keila Oliveira",
+    "received": 52,
+    "finalized": 12,
+    "CSAT": 5.0
+  },
+  {
+    "user_name": "Lailla Nascimento",
+    "received": 1041,
+    "finalized": 1105,
+    "CSAT": 4.285714285714286
+  },
+  {
+    "user_name": "Laura Ferreira",
+    "received": 167,
+    "finalized": 96,
+    "CSAT": 5.0
+  },
+  {
+    "user_name": "Lucy ( Luciene)",
+    "received": 442,
+    "finalized": 473,
+    "CSAT": 4.549999999999999
+  },
+  {
+    "user_name": "Magna Paula",
+    "received": 309,
+    "finalized": 327,
+    "CSAT": 4.580645161290322
+  },
+  {
+    "user_name": "Maria Aparecida (cida)",
+    "received": 771,
+    "finalized": 949,
+    "CSAT": 4.166666666666667
+  },
+  {
+    "user_name": "Mary Luciana Coutinho",
+    "received": 253,
+    "finalized": 247,
+    "CSAT": 4.333333333333333
+  },
+  {
+    "user_name": "Mauro Cavalheiro Dutra",
+    "received": 315,
+    "finalized": 142,
+    "CSAT": 5.0
+  },
+  {
+    "user_name": "Michele",
+    "received": 19,
+    "finalized": 12,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Márcia Isabel",
+    "received": 2524,
+    "finalized": 2389,
+    "CSAT": 4.026315789473685
+  },
+  {
+    "user_name": "Renan Pereira",
+    "received": 142,
+    "finalized": 142,
+    "CSAT": 5.0
+  },
+  {
+    "user_name": "Renata Martins",
+    "received": 118,
+    "finalized": 0,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Rosi Aguiar",
+    "received": 2,
+    "finalized": 1,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Sem Usuário Atribuído",
+    "received": 2,
+    "finalized": 227,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Sheila Oliveira",
+    "received": 29,
+    "finalized": 13,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "Tamiris Alves",
+    "received": 114,
+    "finalized": 125,
+    "CSAT": 4.0
+  },
+  {
+    "user_name": "Verônica Barbosa",
+    "received": 104,
+    "finalized": 50,
+    "CSAT": NaN
+  },
+  {
+    "user_name": "William",
+    "received": 285,
+    "finalized": 237,
+    "CSAT": 4.416666666666666
+  },
+  {
+    "user_name": "Yasmin",
+    "received": 26,
+    "finalized": 3,
+    "CSAT": 2.0
+  }
+]

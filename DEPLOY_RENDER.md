@@ -41,7 +41,7 @@ Configure as seguintes opções:
 | **Name** | `dashboard-campneus` |
 | **Branch** | `main` |
 | **Root Directory** | (deixe vazio) |
-| **Build Command** | `npm run build` |
+| **Build Command** | `npm install && npm run build` |
 | **Publish Directory** | `dist` |
 
 ### Passo 4: Variáveis de Ambiente (se necessário)
@@ -180,8 +180,8 @@ No painel do Render, monitore:
 **Erro comum**: `npm: command not found`
 - **Solução**: Verificar se `package.json` está na raiz
 
-**Erro comum**: `Build failed with exit code 1`
-- **Solução**: Executar `npm run build` localmente para debug
+**Erro comum**: `ERESOLVE unable to resolve dependency tree` (conflito de dependências)
+- **Solução**: Isso ocorre geralmente com `date-fns` e `react-day-picker`. A solução é garantir que a versão do `date-fns` seja compatível (ex: `^3.0.0`). O `package.json` do projeto já foi ajustado para isso. Além disso, certifique-se de que o Render esteja usando `npm` como gerenciador de pacotes (a linha `"packageManager"` foi removida do `package.json`).
 
 ### Site não Carrega
 
